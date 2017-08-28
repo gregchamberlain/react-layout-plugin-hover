@@ -19,8 +19,8 @@ var config = {
     ]
   },
   output: {
-    filename: 'dist/ReactComponentBoilerplate.min.js',
-    library: 'ReactComponentBoilerplate',
+    filename: 'dist/ReactLayoutPluginHover.min.js',
+    library: 'ReactLayoutPluginHover',
     libraryTarget: 'umd',
   },
   plugins: [
